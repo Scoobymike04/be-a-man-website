@@ -32,7 +32,8 @@ cat <<EOF > /var/www/html/index.html
     body,h1,h3 {font-family: "Raleway", sans-serif}
     body, html {height: 100%}
     .bgimg {
-      background-image: url('https://images.app.goo.gl/ZNqP1XFLS7gT2kRs7');
+      background-image: url('https://1000logos.net/wp-content/uploads/2024/02/Louisville-Cardinals-Logo-2000.png');
+      background-repeat: repeat;
       min-height: 100%;
       background-position: center;
       background-size: cover;
@@ -56,12 +57,12 @@ cat <<EOF > /var/www/html/index.html
   <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
     <div class="w3-display-topleft w3-padding-large w3-xlarge"></div>
     <div class="w3-display-middle w3-center">
-      <iframe src="https://images.app.goo.gl/wFhGqdv5z4iufLADA"
-              width="500"
-              height="270"
+      <iframe src="https://media.arizonafoothillsmagazine.com/in-house/wp-content/uploads/2022/01/15201333/photo_online_002-1-768x512.jpg"
+              width="700"
+              height="500"
               style="border-radius:10px;"
               frameBorder="0"
-              class="giphy-embed"
+              class="image"
               allowFullScreen>
       </iframe>
       <hr class="w3-border-grey" style="margin:auto;width:40%;margin-top:15px;">
